@@ -4,7 +4,7 @@
 
 ---
 
-## ** Project Overview**
+##  Project Overview
 
 This project delivers a dual-framework machine learning solution designed to enhance airline operations and strengthen customer loyalty.  
 By combining **predictive analytics** with **NLP-driven sentiment analysis**, it provides airlines with actionable insights on:
@@ -16,21 +16,21 @@ The project demonstrates technical capability in data engineering, predictive mo
 
 ---
 
-## ** Project Objectives**
+## Project Objectives
 
-### **1. Flight Delay Prediction**
+### 1. Flight Delay Prediction
 - Identify and analyze key operational factors influencing delays  
 - Build and compare machine learning models to forecast delay likelihood  
 - Enable proactive decision-making for scheduling, staffing, and disruption management  
 
-### **2. Customer Sentiment & Loyalty Analysis**
+### 2. Customer Sentiment & Loyalty Analysis
 - Analyze 14,640+ customer tweets about U.S. airlines  
 - Detect sentiment levels, complaint themes, and loyalty risks  
 - Support airlines in enhancing communication, service quality, and customer retention  
 
 ---
 
-## ** Datasets**
+## Datasets
 - **Flight Delay & Cancellation Dataset (2019–2023)**  
 - **Airline Tweet Dataset** (14,640 labeled tweets with sentiment & complaint categories)
 
@@ -38,7 +38,7 @@ Both datasets underwent cleaning, standardization, feature engineering, and NLP 
 
 ---
 
-## **🛠 Methods & Techniques**
+## Methods & Techniques
 
 ### **Machine Learning (Flight Delays)**
 - Logistic Regression  
@@ -58,7 +58,7 @@ The best-performing classifier: **Logistic Regression** for sentiment prediction
 
 ---
 
-## ** Key Insights**
+## Key Insights
 
 ### **Flight Delay Findings**
 - Weather, airline, origin airport, and departure time are strong delay predictors  
@@ -75,7 +75,7 @@ The best-performing classifier: **Logistic Regression** for sentiment prediction
 
 ---
 
-## ** Conclusion**
+## Conclusion
 
 This project showcases the power of combining **predictive analytics** and **natural language processing** to deliver full-spectrum insights for the airline industry.  
 The integrated approach enables airlines to:
@@ -83,8 +83,4 @@ The integrated approach enables airlines to:
 - Reduce delays through data-driven forecasting  
 - Improve service quality using real-time customer sentiment  
 - Strengthen loyalty by addressing critical issues proactively  
-
-
-
-## **📁 Repository Structure**
 
