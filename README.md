@@ -3,7 +3,7 @@
 ### *Integrated Machine Learning and NLP System for Airline Delay Forecasting & Customer Sentiment Intelligence*
 
 ---
-
+![image](Maximizing-Airline-Loyalty-Programs.webp)
 ##  Project Overview
 
 This project delivers a dual-framework machine learning solution designed to enhance airline operations and strengthen customer loyalty.  
